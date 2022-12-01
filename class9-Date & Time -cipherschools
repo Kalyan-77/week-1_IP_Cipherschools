@@ -1,0 +1,13 @@
+<docttype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta htts-equiv="x-UA-compatible" content="IE-edge">
+    <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+ <h2>Lecture-9</h2>
+   <time datetime="2022-12-01T15:45-09:00">1st dec 2022</time>
+ </body>
+ </html>
