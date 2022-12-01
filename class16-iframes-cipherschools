@@ -1,0 +1,16 @@
+<docttype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta htts-equiv="x-UA-compatible" content="IE-edge">
+        <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon.png" type="image/x-icon">
+        <title>Iframes</html></title>
+    </head>
+    <body><iframe src="C:\Users\Jaswanth\Pictures\Saved Pictures\pexels-jaime-reimer-2662116.jpg" frameborder="100%" width="700px" height="500px">
+        <!--google map-->
+        
+        </iframe>
+        <iframe src="https://www.google.com/maps/@31.7931324,76.1902468,8.34z"width="500px" height="500px" style="border:0;" loading="lazy"></iframe>
+    </body>
+    </html>
