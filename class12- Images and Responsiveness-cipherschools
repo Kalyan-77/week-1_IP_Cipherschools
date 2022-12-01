@@ -1,0 +1,20 @@
+<docttype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta htts-equiv="x-UA-compatible" content="IE-edge">
+        <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon.png" type="image/x-icon">
+        <title>Images and Responsiveness</html></title>
+    </head>
+    <body>
+        <img src="https://repository-images.githubusercontent.com/486226419/99587ec7-b54b-4ccc-9d8e-eae9cbbc6f9e" alt="House" 
+        width="100px" height="100px" srcset="/asset/small.jng 480px">
+        <picture>
+            <source media="(max-width:600px)" srcset="https://repository-images.githubusercontent.com/486226419/99587ec7-b54b-4ccc-9d8e-eae9cbbc6f9e">
+            <source media="(max-width:900px)" srcset="https://repository-images.githubusercontent.com/486226419/99587ec7-b54b-4ccc-9d8e-eae9cbbc6f9e">
+            <source media="(max-width:600px)" srcset="https://repository-images.githubusercontent.com/486226419/99587ec7-b54b-4ccc-9d8e-eae9cbbc6f9e">
+            
+        </picture>
+  </body>
+  </html>
