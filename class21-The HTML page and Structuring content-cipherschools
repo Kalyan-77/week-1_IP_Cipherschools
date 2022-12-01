@@ -1,0 +1,27 @@
+<docttype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta htts-equiv="x-UA-compatible" content="IE-edge">
+    <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+ <header>
+
+    </header>
+    <main>
+        <articles>
+
+        </articles>
+        <aside>
+
+        </aside>
+
+    </main>
+    <footer>
+        
+    </footer>
+</body>
+</html>
+
