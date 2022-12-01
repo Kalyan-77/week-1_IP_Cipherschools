@@ -1,0 +1,25 @@
+<docttype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta htts-equiv="x-UA-compatible" content="IE-edge">
+    <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+ <h1>Lecture-10</h1>
+   <!--weiredchar-->
+   <h2>HTML Entities</h2>
+   <ul>
+    <li>&lt;</li>
+    <li>&gt;</li>
+    <li>&amp;</li>
+    <li>&nbsp;</li>
+    <li>&star;</li>
+    <li>&copy;</li>
+    <li>&trade;</li>
+    <li>&reg;</li>
+    <li>&commat;</li>
+   </ul>
+</body>
+</html>
