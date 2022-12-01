@@ -1,0 +1,51 @@
+<docttype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta htts-equiv="x-UA-compatible" content="IE-edge">
+    <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+    <title>paragraph,Headlines,small Texts,Subscriptions & Superscripts</title>
+</head>
+<body>
+    <!--Image mapping-->
+    <h1>Lecture-13</h1>
+    <img src="https://repository-images.githubusercontent.com/486226419/99587ec7-b54b-4ccc-9d8e-eae9cbbc6f9e" ait="workspace" usemap="workspace">
+    <map name="workspace">
+        <area shape="rect" coords="34,44,270,350" alt="computer" href="computer.html">
+        <area shape="rect" coords="290,172,333,250" href="phone.html" alt="phone">
+        <area shape="circle" coords="337,300,44" alt="cup" href="cup.html">
+    </map>
+    <h1>Lecture-14</h1>
+    <!--audio-->
+    <audio controls src="/asset/audio.mp3"></audio>
+    <audio controls>
+        <source src="/asset/audio.mp3"><br/>
+    </audio> 
+    <video controls src="/assets/banner-video.mp4" width="50%" muted loop autoplay></video>
+    <track src=""
+       kind="captions"
+       label="english"
+       srclang="en"
+       defaul
+    >
+    <h1>Lecture-15</h1>
+    <figure>
+        <img src="C:\Users\KALYAN\Pictures\Saved Pictures/pexels-jaime-reimer-2662116.jpg" width="100px">
+    </figure>
+    <marquee behavior="alternate" direction="">this is marquee</marquee>
+    <h1>Lecture-16</h1>
+    <!--iframes-->
+    <iframe src="C:\Users\KALYAN\Pictures\Saved Pictures\pexels-jaime-reimer-2662116.jpg" frameborder="100%" width="700px" height="500px">
+    <!--google map-->
+    
+    </iframe>
+    <iframe src="https://www.google.com/maps/@31.7931324,76.1902468,8.34z"width="500px" height="500px" style="border:0;" loading="lazy"></iframe>    
+    
+    <h1>Lecture-17</h1>
+    <div class="box">
+    <h1>this is the heading</h1>
+    <p>this is a first <span >paragraph</p></span>
+    <p>this is a second paragraph</p>
+    <p>this is a third paragraph</p></div>
+</body>
+</html>
