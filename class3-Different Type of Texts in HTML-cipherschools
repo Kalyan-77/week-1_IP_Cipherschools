@@ -1,0 +1,25 @@
+<docttype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta htts-equiv="x-UA-compatible" content="IE-edge">
+    <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+    <title>paragraph,Headlines,small Texts,Subscriptions & Superscripts</title>
+</head>
+<body>
+    <h1>LECTURE-3</h1>
+    <p>Hello everyone</p>
+    <h1>My name is kalyan</h1>
+    <h2>My name is kalyan</h2>
+    <h3>My name is kalyan</h3>
+    <h4>My name is kalyan</h4>
+    <h5>My name is kalyan</h5>
+    <h6>My name is kalyan</h6>
+   <!--subscriptions-->
+   <p>H<sub>2</sub>
+    <!--superscripts-->
+    <p>5<sup>3</sup>
+    <!--small-->
+    <small>all rights reserved</small>
+    </body>
+    </html>
