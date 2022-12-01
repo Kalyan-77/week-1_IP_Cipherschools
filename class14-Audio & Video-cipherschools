@@ -1,0 +1,24 @@
+<docttype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta htts-equiv="x-UA-compatible" content="IE-edge">
+        <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon.png" type="image/x-icon">
+        <title> audio and video</html></title>
+    </head>
+    <body>
+        <!--audio-->
+    <audio controls src="/asset/audio.mp3"></audio>
+    <audio controls>
+        <source src="/asset/audio.mp3"><br/>
+    </audio> 
+    <video controls src="/assets/banner-video.mp4" width="50%" muted loop autoplay></video>
+    <track src=""
+       kind="captions"
+       label="english"
+       srclang="en"
+       defaul
+    >
+    </body>
+    </html>
