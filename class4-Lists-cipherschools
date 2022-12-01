@@ -1,0 +1,43 @@
+<docttype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta htts-equiv="x-UA-compatible" content="IE-edge">
+    <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+<h1>LECTURE-4</h1>
+
+    <!--LISTS IN HTML-->
+    <h1>Unordered list</h1>
+    <h1>Ordered list</h1>
+    <h1>Difinition list</h1>
+    <!--unordered list-->
+    <ul>
+        <li>food</li>
+        <li>meals</li>
+        <li>vehicles</li>
+        <li>maps</li>
+    </ul>
+
+    <!--Ordered list-->
+    <ol>
+        <li>food</li>
+        <li>meals</li>
+        <li>vehicles</li>
+        <li>maps</li>
+    </ol>
+    <dl>
+        <dt>tera</dt>
+        <dd> tera discription</dd>
+        <dd> tera discription</dd>
+
+        <dt>tera</dt>
+        <dd> tera discription</dd>
+        <dd> tera discription</dd>
+        <dd> tera discription</dd>
+        <dd> tera discription</dd>
+    </dl>
+    </body>
+    </html>
