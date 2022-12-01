@@ -1,0 +1,56 @@
+<docttype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta htts-equiv="x-UA-compatible" content="IE-edge">
+    <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+    <title>paragraph,Headlines,small Texts,Subscriptions & Superscripts</title>
+</head>
+<body>
+   <h1>Debugging in html</h1>
+   <h2>Lecture-7</h2>
+   The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. 
+   It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+
+   <h2>Lecture-8</h2>
+   <p class="para">Decscruption</p>
+   <p id="one">Decscruption</p>
+   <p lang="en-GB">Decscruption</p>
+   <p dir="rtl">Decscruption</p>
+   <p contenteditable="true" dir="ltr">i am here</p>
+
+   <h2>Lecture-9</h2>
+   <time datetime="2022-12-01T15:45-09:00">1st dec 2022</time>
+
+   <h1>Lecture-10</h1>
+   <!--weiredchar-->
+   <h2>HTML Entities</h2>
+   <ul>
+    <li>&lt;</li>
+    <li>&gt;</li>
+    <li>&amp;</li>
+    <li>&nbsp;</li>
+    <li>&star;</li>
+    <li>&copy;</li>
+    <li>&trade;</li>
+    <li>&reg;</li>
+    <li>&commat;</li>
+   </ul>
+
+   <h1>Lecture-11</h1>
+   <!--links-->
+   <a href="">Cick here</a>
+   <!--Absolute URL paths-->
+   <a href="https://www.google.com">Google</a>
+
+   <h1>Lecture-12</h1>
+   <img src="https://repository-images.githubusercontent.com/486226419/99587ec7-b54b-4ccc-9d8e-eae9cbbc6f9e" alt="House" 
+    width="100px" height="100px" srcset="/asset/small.jng 480px">
+    <picture>
+        <source media="(max-width:600px)" srcset="https://repository-images.githubusercontent.com/486226419/99587ec7-b54b-4ccc-9d8e-eae9cbbc6f9e">
+        <source media="(max-width:900px)" srcset="https://repository-images.githubusercontent.com/486226419/99587ec7-b54b-4ccc-9d8e-eae9cbbc6f9e">
+        <source media="(max-width:600px)" srcset="https://repository-images.githubusercontent.com/486226419/99587ec7-b54b-4ccc-9d8e-eae9cbbc6f9e">
+        
+    </picture>
+</body>
+</html>
