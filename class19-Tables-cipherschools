@@ -1,0 +1,36 @@
+<docttype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta htts-equiv="x-UA-compatible" content="IE-edge">
+        <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+        <title>tables<canvas></canvas></title>
+        <link rel="stylesheet" click>
+        <link rel="shortcut-icon" href="/assets/Yahoo!.png" type="image/x-icon">
+    </head>
+    <body>
+        <table>
+            <thead>Table of content</thead>
+            <tbody>
+                <tr>
+                    <th>name</th>
+                    <th>place</th>
+                    <th>city</th>
+                    <th>country</th>
+                </tr>
+                <tr>
+                    <td>ravi</td>
+                    <td>ram</td>
+                    <td>raghu</td>
+                    <td>rajesh</td>
+                </tr>
+                <tr>
+                    <td>anyones name</td>
+                    <td>any place</td>
+                    <td>any animal</td>
+                    <td>anything</td>
+                </tr>
+            </tbody>
+         </table>
+    </body>
+    </html>
