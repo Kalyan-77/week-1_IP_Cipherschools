@@ -1,0 +1,17 @@
+<docttype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta htts-equiv="x-UA-compatible" content="IE-edge">
+    <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+<h2>Lecture-8</h2>
+   <p class="para">Decscruption</p>
+   <p id="one">Decscruption</p>
+   <p lang="en-GB">Decscruption</p>
+   <p dir="rtl">Decscruption</p>
+   <p contenteditable="true" dir="ltr">i am here</p>
+</body>
+</html>
