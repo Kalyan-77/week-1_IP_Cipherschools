@@ -1,0 +1,15 @@
+<docttype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta htts-equiv="x-UA-compatible" content="IE-edge">
+    <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+   <h1>Debugging in html</h1>
+   <h2>Lecture-7</h2>
+   The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. 
+   It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+  </body>
+  </html>
